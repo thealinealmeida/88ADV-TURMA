@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-image: url("bck.avif");
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+h1{
+    color:deeppink;
+    background-color: black;
+    font-size: 70;
+}
+#canvas{
+    background-color: beige;
+    border-radius: 4px;
+    border-color: black;
+    border-style: ridge;
+    border-width: 10px;
+}
+button{
+    background-color: blue;
+    width: 140px;
+    height: 50px; ;
+    font-size: 32px;
+    border-radius: 30px;
+    color:beige;
+
+}
